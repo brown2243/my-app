@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 생활 코딩과 함께한 React 기초
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
